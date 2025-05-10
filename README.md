@@ -1,4 +1,4 @@
-# ml_exercise
+# Machine Learning exercise
 
 ## Metrics
 
